@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-changes as part of stash eg.
+changes as part of stash eg. changes related to shash2.
 
 # TEAM
 
